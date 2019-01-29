@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 0fd9ef2f393f6b140a0f76e205db5209
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - background: {instanceID: 0}
+  - monkey1_left: {instanceID: 0}
+  - monkey2_left: {instanceID: 0}
+  - monkey1_right: {instanceID: 0}
+  - monkey2_right: {instanceID: 0}
+  - monkey1_jump: {instanceID: 0}
+  - monkey2_jump: {instanceID: 0}
+  - monkey1_smash: {instanceID: 0}
+  - monkey2_smash: {instanceID: 0}
+  - ready: {instanceID: 0}
+  - go: {instanceID: 0}
+  - effect: {fileID: 4017370446187285036, guid: 42fa472c75b7eff49bcdbe026fbb9931,
+      type: 3}
+  - fit: {instanceID: 0}
+  - c1: {instanceID: 0}
+  - c2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

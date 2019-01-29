@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d80d580a9dcbac445828b57e2334a2da
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TmonMonsori
+  fontNames:
+  - TmonMonsori
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ad91f62b7eeb5954eb3a94277def5e4b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
